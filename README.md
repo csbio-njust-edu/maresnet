@@ -100,6 +100,6 @@ Dataset
     └── valid.data
 ```
 ## Contact:
-[Long-Chen Shen](https://github.com/shenlongchen/maresnet): shenlc1995@gmail.com
-Dong-Jun Yu: njyudj@njust.edu.cn
+[Long-Chen Shen](https://github.com/shenlongchen/maresnet): shenlc1995@gmail.com <br>
+Dong-Jun Yu: njyudj@njust.edu.cn <br>
 Jiangning Song: jiangning.song@monash.edu
